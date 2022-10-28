@@ -18,7 +18,7 @@ As a highschool-teacher-turned-developer, I thrive in working collaboratively in
 
 - 💞️ I’m always looking to collaborate on new React Projects! 
 
-- 📫 Best ways to reach me: [@chabMom](https://twitter.com/chabMom), [email](christaeyoung.kim@gmail.com), or [LinkedIn](https://www.linkedin.com/in/chris-ty-kim/)
+- 📫 Best ways to reach me: [@chabMom](https://twitter.com/chabMom), [christaeyoung.kim@gmail.com](mailto:christaeyoung.kim@gmail.com), or [LinkedIn](https://www.linkedin.com/in/chris-ty-kim/)
 
 - 😜 Fun fact: I'm terrified of sharp knives🔪, so I often use ✂️ in the kitchen (please don't judge!)
 
