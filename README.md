@@ -10,7 +10,7 @@
 
 <!-- About section -->
 ---
-I'm a a Toronto-based Frontend Web Developer and <a href="https://junocollege.com" target="__blank">Juno College of Technology</a> ✨ Cohort 44 ✨ grad, passionate about building clean, accessible and responsive web applications. 
+I'm a Toronto-based Frontend Web Developer and a <a href="https://junocollege.com" target="__blank">Juno College of Technology</a> ✨ Cohort 44 ✨ grad, passionate about building clean, accessible and responsive web applications. 
 
 As a highschool-teacher-turned-developer, I thrive in working collaboratively in intensive, fast-paced, and pressurized environments. I bring my analytic lens and disciplined training as a classical musician🎶🎹, along with my technical skills, to problem-solve through creativity and thinking "outside the box". When I'm not actively coding or debugging in my dreams, you'll find me playing with my cat 🐈, at the gym 🏋️‍♀️, or listening to true crime podcasts🔪🎧!
 
