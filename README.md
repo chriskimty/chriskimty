@@ -40,7 +40,13 @@ As a highschool-teacher-turned-developer, I thrive in working collaboratively in
   <a href="https://firebase.google.com/" target="__blank"> <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> </a> 
  </p>
  
- <p align="center">As a lifelong learner, I'm looking to further explore TypeScript and Angular in the near future. </p>
+ <p align="center">I'm currently exploring: </p>
+ <p align="center">
+  <a href="https://jestjs.io/" target="__blank"> <img alt="Jest badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> </a>
+  <a href="https://www.typescriptlang.org/" target="__blank"> <img alt="Typescript Badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> </a> 
+  <a href="https://nodejs.org/en/" target="__blank"> <img alt="Node Js Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> </a>
+  <a href="https://vuejs.org/" target="__blank"> <img alt="Vue.js badge" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/> </a>
+  </p>
  <p align="center">Stay tuned to see my tech list blossom and grow 🌱!</p>
 
 <!-- Tech Stack section: END -->
