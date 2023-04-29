@@ -14,7 +14,7 @@ I'm a Toronto-based Software Developer with an affinity for Frontend frameworks 
 
 As a highschool-teacher-turned-developer, I thrive in working collaboratively in intensive, fast-paced, and pressurized environments. I bring my analytic lens and disciplined training as a classical musician🎶🎹, along with my technical skills, to problem-solve through creativity and thinking "outside the box". I value communication and teamwork, as well as frequent and ongoing feedback to continuously learn and grow 🌱! 
 
-I run a slack workspace/organization called 'Tech Tank🐟' - a space for (and by!) early-career devs/designers/other techies - where we study, hang out (in Toronto), and sometimes just rant about being a junior. Please contact me if you're interested in joining! 
+I run a slack workspace/organization called 'Tech Tank🐟' - a space for (and by!) early-career devs/designers/other techies - where we study, hang out (in Toronto), and sometimes just rant about being/job searching as a junior! Please contact me if you're interested in joining! 
 
 When I'm not actively coding or debugging in my dreams, you'll find me playing with my cat 🐈, at the gym 🏋️‍♀️, reading 📚, or listening to true crime podcasts🔪🎧!
 
