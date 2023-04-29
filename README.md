@@ -10,9 +10,13 @@
 
 <!-- About section -->
 ---
-I'm a Toronto-based Frontend Web Developer and a <a href="https://junocollege.com" target="__blank">Juno College of Technology</a> ✨ Cohort 44 ✨ grad, passionate about building clean, accessible and responsive web applications. 
+I'm a Toronto-based Software Developer with an affinity for Frontend frameworks and UI/UX. Currently, I'm working as a SWE Intern at [Cohere](https://cohere.com) and a Freelance Web Developer at [Top Hat](https://tophat.com).
 
-As a highschool-teacher-turned-developer, I thrive in working collaboratively in intensive, fast-paced, and pressurized environments. I bring my analytic lens and disciplined training as a classical musician🎶🎹, along with my technical skills, to problem-solve through creativity and thinking "outside the box". When I'm not actively coding or debugging in my dreams, you'll find me playing with my cat 🐈, at the gym 🏋️‍♀️, or listening to true crime podcasts🔪🎧!
+As a highschool-teacher-turned-developer, I thrive in working collaboratively in intensive, fast-paced, and pressurized environments. I bring my analytic lens and disciplined training as a classical musician🎶🎹, along with my technical skills, to problem-solve through creativity and thinking "outside the box". I value communication and teamwork, as well as frequent and ongoing feedback to continuously learn and grow 🌱! 
+
+I run a slack workspace/organization called 'Tech Tank🐟' - a space for (and by!) early-career devs/designers/other techies - where we study, hang out (in Toronto), and sometimes just rant about being a junior. Please contact me if you're interested in joining! 
+
+When I'm not actively coding or debugging in my dreams, you'll find me playing with my cat 🐈, at the gym 🏋️‍♀️, reading 📚, or listening to true crime podcasts🔪🎧!
 
 - 💬 Ask me about: transitioning careers, women in tech, cats, books, true crime, Korean Fried Chicken...
 
@@ -41,11 +45,17 @@ As a highschool-teacher-turned-developer, I thrive in working collaboratively in
   <a href="https://firebase.google.com/" target="__blank"> <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> </a> 
  </p>
  
+ <p align="center">
+  <a href="https://tailwindcss.com" target="__blank"> <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </a>
+  <a href="https://nextjs.org" target="__blank"> <img alt="NextJS Badge" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> </a>
+ </p>
+  
+ 
  <p align="center">I'm currently exploring: </p>
  <p align="center">
-  <a href="https://jestjs.io/" target="__blank"> <img alt="Jest badge" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> </a>
   <a href="https://www.typescriptlang.org/" target="__blank"> <img alt="Typescript Badge" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> </a> 
   <a href="https://nodejs.org/en/" target="__blank"> <img alt="Node Js Badge" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> </a>
+  <a href="https://python.org/" target="__blank"> <img alt="Python badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
   </p>
  <p align="center">Stay tuned to see my tech list blossom and grow 🌱!</p>
 
