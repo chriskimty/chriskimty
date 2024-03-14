@@ -1,15 +1,8 @@
 <!-- Heading -->
 <h2 align="center"> Hello! I'm Chris (she/her)👋 </h2>
-
-<p align="center">
-  <a href="https://chriskim.dev" target="__blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/chris-ty-kim/" target="__blank">LinkedIn</a> •
-  <a href="https://twitter.com/chabMom" target="__blank">Twitter</a>
-</p>
 <!-- Heading: END -->
 
 <!-- About section -->
----
 I'm a Toronto-based Software Developer with an affinity for Frontend frameworks and UI/UX. Currently, I'm working as a Frontend Software Engineer at [Cohere](https://cohere.com) and a Freelance Web Developer at [Top Hat](https://tophat.com).
 
 As a highschool-teacher-turned-developer, I thrive in working collaboratively in intensive, fast-paced, and pressurized environments. I bring my analytic lens and disciplined training as a classical musician🎶🎹, along with my technical skills, to problem-solve through creativity and thinking "outside the box". I value communication and teamwork, as well as frequent and ongoing feedback to continuously learn and grow 🌱! 
